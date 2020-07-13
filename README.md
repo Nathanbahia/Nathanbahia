@@ -14,7 +14,7 @@
 
 #### Contato:
 - E-mail: nathanbabahia@gmail.com
-- [LinkedIn](linkedin.com/in/nathanbahia)
+- [LinkedIn](https://linkedin.com/in/nathanbahia)
 
 
 #### Projetos:
