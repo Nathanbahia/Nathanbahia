@@ -1,16 +1,21 @@
-### Hi there 👋
+### Oi, seja bem vindo(a) ao meu GitHub 😄
 
-<!--
-**Nathanbahia/Nathanbahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Nathan Bahia, 26 anos - Quatis/RJ
+> #### 🎓 Analista de Desenvolvedor de Sistemas (2021)
+> #### 🎓 MBA em Gestão Financeira (2020)
+> #### 🎓 Administrador de Empresas (2018)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tecnologias:
+- Python
+- Javascript
+- HTML, CSS e Bootstrap
+
+
+#### Contato:
+- E-mail: nathanbabahia@gmail.com
+- [LinkedIn](linkedin.com/in/nathanbahia)
+
+
+#### Projetos:
+Acesse meu portfólio [aqui](https://nathanbahia.pythonanywhere.com).
